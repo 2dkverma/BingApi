@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pNL0mXxVaWR2GOyYbuRTRoB537chWsZLamqLTKBK0gk=",
+  "Source": "BingApi",
+  "BasePath": "_content/BingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
